@@ -1,4 +1,4 @@
-var snake;
+var s;
 var scl = 20;
 
 function setup(){
